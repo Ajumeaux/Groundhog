@@ -1,0 +1,3 @@
+g=nan	r=nan%	s=0.00
+Global tendency switched 0 times
+1 weirdest values are [27.7]
